@@ -34,9 +34,7 @@ public:
         
         // Technical Arsenal - Foundation over Framework Philosophy
         technicalArsenal = {
-            "React", "Java", "Spring Boot", "JEE", "FastAPI", 
-            "PyTorch", "sklearn", "jQuery", "JavaScript", 
-            "Python", "Lua", "C++", "C"
+            "Any Language", "Any Framework", "Any Stack", "Any Challenge"
         };
         
         networkingPlatforms = {
