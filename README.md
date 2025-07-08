@@ -1,4 +1,4 @@
-# ⚡ Mohamed Mahdi
+# Mohamed Mahdi
 
 ```cpp
 #include <iostream>
